@@ -1,0 +1,20 @@
+#container{
+    height: 250px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    display: flex;
+    align-items: flex-end;
+}
+
+body{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.bar{
+    width: 12px;
+    background-color: lightgreen;
+    border: 1px solid black;
+    margin: 0.5px;
+}
